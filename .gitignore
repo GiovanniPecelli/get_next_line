@@ -1,0 +1,13 @@
+# Compiled output
+*.o
+a.out
+
+# Vim swap files
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Test files
+*.txt
